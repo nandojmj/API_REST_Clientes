@@ -4,11 +4,17 @@
 
 Este es un proyecto de API REST desarrollado con Spring Boot para gestionar clientes. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre la entidad Cliente.
 
+
+
 ## Requisitos
 
 - **Java JDK 8 o superior:** Asegúrate de tener instalado Java en tu sistema. Puedes descargarlo [aquí](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 - **Maven:** Necesitarás Maven para compilar y ejecutar el proyecto. Puedes descargarlo [aquí](https://maven.apache.org/download.cgi).
 - **MySQL Server (opcional):** Si deseas utilizar una base de datos MySQL, necesitarás tener MySQL Server instalado. Puedes descargarlo [aquí](https://dev.mysql.com/downloads/mysql/).
+
+
+![Captura](https://github.com/nandojmj/API_REST_Clientes/assets/156966097/0557ffbf-d7d2-4907-9d8f-15ab11d13726)
+![Capturapost](https://github.com/nandojmj/API_REST_Clientes/assets/156966097/4e1607ba-cfbb-41d5-9add-a840736b0903)
 
 ## Instalación
 
