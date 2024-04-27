@@ -1,0 +1,3 @@
+com\appiexample\app\rest\Controller\ClientController.class
+com\appiexample\app\rest\Repository\ClientRepository.class
+com\appiexample\app\rest\Model\Client.class
