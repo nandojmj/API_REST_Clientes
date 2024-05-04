@@ -8,7 +8,7 @@
 
 
 
-Este es un proyecto de API REST desarrollado con Spring Boot para gestionar clientes. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre la entidad Cliente.
+Este es un proyecto de API REST desarrollado con Spring Boot para gestionar clientes. Permite realizar operaciones CRUD (Create, Read, Update, and Delete - Crear, Leer, Actualizar y Eliminar) sobre la entidad Cliente.
 
 
 
